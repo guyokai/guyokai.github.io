@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>GUY/OKAI</title>
+    <title>GUYOKAI</title>
     <body bgcolor="black">
       <center>
         <img src="coming.png">
