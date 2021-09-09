@@ -1,6 +1,5 @@
 <html>
   <head>
-   
     <body bgcolor="black">
       <center>
         <img src="coming.png">
